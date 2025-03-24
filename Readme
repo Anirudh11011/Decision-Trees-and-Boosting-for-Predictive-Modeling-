@@ -1,4 +1,5 @@
 Project Title: Decision Trees and Boosting for Predictive Modeling
+
 Project Overview
 
 This project focuses on implementing core machine learning algorithms from scratch—Decision Trees, Random Forests, and AdaBoost—to perform binary classification on the Titanic dataset. The goal was to deepen understanding of tree-based models and ensemble techniques while developing a full ML workflow, including preprocessing, training, evaluation, and performance comparison.
